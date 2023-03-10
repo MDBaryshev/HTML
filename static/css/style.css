@@ -1,0 +1,28 @@
+body {
+    background-color: #000000;
+    }
+
+h1 {
+    color: #ff0000;
+    }
+
+.mars {
+    background-color: #fff;
+    width: 300px;
+    }
+img {
+    width: 300px;
+    }
+
+p {
+    color: #fff;
+}
+
+
+.main {
+    width : 50%;
+    display : flex;
+    flex-direction: column;
+    align-items : center;
+    margin : 0 auto;
+}
